@@ -1,7 +1,7 @@
 {
   "name": "Supercalculadora",
   "short_name": "Supercalc",
-  "description": "Calculadora científica, regla de tres y porcentajes. Funciona sin conexión.",
+  "description": "Calculadora científica, regla de tres, porcentajes, ecuaciones y conversor. Funciona sin conexión.",
   "lang": "es",
   "start_url": "./index.html",
   "scope": "./",

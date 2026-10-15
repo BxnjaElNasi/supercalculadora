@@ -1,6 +1,6 @@
 // Service worker: guarda la app completa la primera vez y después funciona sin conexión.
 // Al cambiar cualquier archivo, subí el número de versión para que los celulares actualicen.
-const CACHE = 'supercalculadora-v1';
+const CACHE = 'supercalculadora-v2';
 const ARCHIVOS = [
   './',
   './index.html',
